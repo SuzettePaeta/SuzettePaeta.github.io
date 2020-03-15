@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
                 ),
               ),
               new Center(
-                child: new Text("Hello background"),
+                child: new Text(""),
               )
             ],
           )),
